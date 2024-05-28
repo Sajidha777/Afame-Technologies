@@ -10,7 +10,7 @@ The dataset consists of historical data from a U.S. bank's customers. It include
 
 ### 1. Analysis.ipynb
 - Data exploration and visualization
-- Analysis to gain insights into the dataset
+- Analysis to gain insights into the dataset and churn patterns
 
 ### 2. preprocessing-and-model.ipynb
 - Data preprocessing steps such as encoding categorical variables, scaling numerical features, and balancing the dataset
